@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\associacoes\bin\Debug\net7.0\associacoes.exe
+C:\Users\Gustavo\Desktop\associacoes\bin\Debug\net7.0\associacoes.deps.json
+C:\Users\Gustavo\Desktop\associacoes\bin\Debug\net7.0\associacoes.runtimeconfig.json
+C:\Users\Gustavo\Desktop\associacoes\bin\Debug\net7.0\associacoes.dll
+C:\Users\Gustavo\Desktop\associacoes\bin\Debug\net7.0\associacoes.pdb
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.dll
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\refint\associacoes.dll
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.pdb
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\associacoes.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\associacoes\obj\Debug\net7.0\ref\associacoes.dll
